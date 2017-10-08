@@ -19,4 +19,4 @@ sentry=
 
 using real API URL replace apiURL and sentry dsn.
 
-About API you can 
+About API you can  visit https://github.com/imcj/qqq
